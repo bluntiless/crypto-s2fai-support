@@ -1,0 +1,64 @@
+# Crypto S2FAI
+
+![Crypto S2FAI](app-icon.png)
+
+Crypto S2FAI is an innovative iOS application that combines artificial intelligence with the Stock-to-Flow (S2F) model to provide cryptocurrency price predictions. Built with SwiftUI and powered by advanced AI algorithms, this app offers real-time analysis and predictions for Bitcoin and other major cryptocurrencies.
+
+## Features
+
+### Core Functionality
+- 🤖 AI-Enhanced Price Predictions
+- 📊 Real-time Stock-to-Flow Analysis
+- ⏱️ Bitcoin Halving Countdown
+- 💱 Multi-Currency Support
+- 📈 Interactive Price Charts
+- 🔄 Historical Data Analysis
+
+### Supported Cryptocurrencies
+- Bitcoin (BTC)
+- Ethereum (ETH)
+- XRP
+- And more...
+
+### Technical Features
+- SwiftUI Implementation
+- Real-time API Integration
+- Advanced Caching System
+- Background Price Updates
+- GDPR Compliant
+- Secure Data Handling
+
+## Privacy & Security
+
+- All predictions and calculations are performed on-device
+- No personal data collection
+- Transparent data handling
+- Regular security updates
+
+## Support
+
+For support inquiries:
+- Visit our [Support Page](https://bluntlless.github.io/crypto-s2fai-support)
+- Email: [your-email@domain.com]
+- [Privacy Policy](privacy-policy.md)
+- [Terms of Service](terms-of-service.md)
+
+## Disclaimer
+
+This app is for educational and informational purposes only. Cryptocurrency investments carry risks, and all predictions should be considered as estimates based on historical data. Always conduct your own research before making investment decisions.
+
+## Requirements
+
+- iOS 18.0 or later
+- Compatible with iPhone and iPad
+- Internet connection required
+
+## About
+
+Crypto S2FAI is developed and maintained by [Your Name]. The app uses the Stock-to-Flow model combined with artificial intelligence to provide cryptocurrency price predictions.
+
+## Legal
+
+- App Store and iOS are trademarks of Apple Inc.
+- Bitcoin and other cryptocurrency names are trademarks of their respective owners
+- © 2024 [Your Name]. All rights reserved.
